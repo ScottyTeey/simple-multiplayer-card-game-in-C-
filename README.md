@@ -1,1 +1,4 @@
-# simple-multiplayer-card-game-in-C-
+# simple-multiplayer-card-game-in-C#
+#Programming Task 
+
+We've created a simple multiplayer card game called "Add 'Em Up" where 5 players are dealt 5 cards from a standard 52 card pack, and the winner is the one with the highest score. The score for each player is calculated by adding up the card values for each player, where the number cards have their face value, J = 11, Q = 12, K = 13 and A = 1 (not 11). In the event of a tie, the scores are recalculated for only the tied players by calculating a "suit score" for each player to see if the tie can be broken (it may not). Each card is given a score based on its suit, with spades = 4, hearts = 3, diamonds = 2 and clubs = 1, and the player's score is the sum of the 5 values. You are required to write a production ready command line application using C#, Java or JavaScript (Node application) that needs to do the following: • Run on Windows. • Be invoked with the name of the input and output text files. • Read the data from the input file, find the winner(s) and write them to the output file. • Handle any problems with the input.
