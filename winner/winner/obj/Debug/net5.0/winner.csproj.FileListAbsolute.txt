@@ -1,0 +1,15 @@
+C:\Users\lpapo\source\repos\winner\winner\bin\Debug\net5.0\winner.exe
+C:\Users\lpapo\source\repos\winner\winner\bin\Debug\net5.0\winner.deps.json
+C:\Users\lpapo\source\repos\winner\winner\bin\Debug\net5.0\winner.runtimeconfig.json
+C:\Users\lpapo\source\repos\winner\winner\bin\Debug\net5.0\winner.runtimeconfig.dev.json
+C:\Users\lpapo\source\repos\winner\winner\bin\Debug\net5.0\winner.dll
+C:\Users\lpapo\source\repos\winner\winner\bin\Debug\net5.0\ref\winner.dll
+C:\Users\lpapo\source\repos\winner\winner\bin\Debug\net5.0\winner.pdb
+C:\Users\lpapo\source\repos\winner\winner\obj\Debug\net5.0\winner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpapo\source\repos\winner\winner\obj\Debug\net5.0\winner.AssemblyInfoInputs.cache
+C:\Users\lpapo\source\repos\winner\winner\obj\Debug\net5.0\winner.AssemblyInfo.cs
+C:\Users\lpapo\source\repos\winner\winner\obj\Debug\net5.0\winner.csproj.CoreCompileInputs.cache
+C:\Users\lpapo\source\repos\winner\winner\obj\Debug\net5.0\winner.dll
+C:\Users\lpapo\source\repos\winner\winner\obj\Debug\net5.0\ref\winner.dll
+C:\Users\lpapo\source\repos\winner\winner\obj\Debug\net5.0\winner.pdb
+C:\Users\lpapo\source\repos\winner\winner\obj\Debug\net5.0\winner.genruntimeconfig.cache
